@@ -1,3 +1,6 @@
+This whole project is pretty much useless at this point with the token limit increase and file uploads. Was nice when it was needed though.
+
+
 # Chat Gpt Long Text Input
 A browser plugin for ChatGPT that simplifies sending large texts by breaking them into multiple messages. 
 
